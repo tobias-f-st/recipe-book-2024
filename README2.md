@@ -9,6 +9,7 @@ This exercise is created from https://github.com/coderefinery/recipe-book-templa
 If you wish to improve the exercise itself, please direct your pull requests
 towards the template repository.
 
+# Add a second test header
 
 ## Categories
 
